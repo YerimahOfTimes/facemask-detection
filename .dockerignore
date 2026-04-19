@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+dataset/
+data/
+*.jpg
+*.png
+*.ipynb
+models/*.zip
